@@ -6,7 +6,7 @@ This is an independent data analytics portfolio project analysing a publicly ava
 
 The project examines Netflix's content catalogue to identify patterns and trends across content type, genres, countries, ratings and release years.
 
-The analysis was completed using **Excel, SQL and Power BI**, with the final insights presented through three interactive Power BI dashboards.
+The analysis was completed using **Power BI**, with the final insights presented through three interactive Power BI dashboards.
 
 > **Disclaimer:** This is an independent portfolio project using a publicly available dataset. It is not affiliated with, commissioned by, or based on Netflix's confidential or internal business data.
 
@@ -27,9 +27,9 @@ The project was designed to:
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tool Used
 
-- **Power BI** – Data modelling, DAX, visualisation and dashboard development
+- **Power BI** – Data cleaning, Validation, Preparation, Data modelling, DAX, visualization and dashboard development
 
 ---
 
@@ -212,5 +212,36 @@ Translated analytical findings into business-focused observations and strategic 
 ## Dashboard 3 – Content Growth & Trend Analysis
 
 ![Content Growth & Trend Analysis](images/content-growth-trends.png)
+
+
+📁 Project Structure
+Netflix content-Analysis/
+│
+├── data/Dataset.csv
+│
+├── Netflix Dashboard images
+│  
+├── Nandiya Phiri Power BI reports
+├ 
+│  
+│
+└── Readme.md
+    
+📚 Dataset
+Dataset: Dataset
+
+The dataset contains information on Netflix movies and TV shows, including titles, content type, release year, country, genre, rating, duration, date added and directors.
+
+This project is intended to assess
+Content analysis: To understand Netflix content mix, genres, ratings and countries. 
+Global Content analysis: To examine the geographic distribution of Netflix content and identify major content producing markets
+Content growth and trend analysis: To track how Netflix content catalogue has grown over time and identify key growth and slowdown trends
+
+👩🏽‍💻 Author
+Nandiya Phiri
+
+Economics | Data Analytics | Business Intelligence | Finance
+
+This project forms part of my data analytics portfolio, with a focus on using data to uncover business insights and support evidence-based decision-making.
 
 ---
