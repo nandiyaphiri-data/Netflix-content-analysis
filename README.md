@@ -97,7 +97,7 @@ The United States, India and the United Kingdom collectively represent more than
 
 **3. Netflix's content distribution is geographically uneven**
 
-The map demonstrates that content is concentrated in several major markets, while many countries have considerably smaller representation.
+The map demonstrates that content is concentrated in several major markets, For instance while North America, Europe and parts of Asia have substantial content representation, several regions—particularly parts of Africa and Asia—show considerably lower content volumes. This highlights differences in Netflix’s geographic content footprint.
 
 **4. Significant differences exist between major content markets**
 
