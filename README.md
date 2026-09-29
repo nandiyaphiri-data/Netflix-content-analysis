@@ -121,32 +121,40 @@ This dashboard examines how Netflix's content catalogue has changed over time, w
 - **Latest year content:** 592 titles
 - **Latest YoY growth:** -37.88%
 - **Average annual growth:** 21.32%
+- **Peak Growth Year:**  2016
 
 ### Key Insights
 
-**1. Netflix experienced significant content expansion**
+1. Netflix experienced rapid content expansion after 2015
 
-The dashboard shows substantial growth in content volume during the 2010s, with the catalogue expanding rapidly compared with earlier years.
+The dashboard shows a substantial acceleration in content additions from around 2015, with annual content growth peaking at 63.38% in 2016 and an average annual growth of 21.32% over the analyzed period.
 
-**2. Growth peaked during the expansion period**
+2. Content additions have slowed significantly in recent years
 
-The highest year-on-year growth shown in the dashboard occurs during the mid-2010s, reaching approximately **63.38% in 2016**.
+The latest recorded year, 2021, contains 592 titles, representing approximately 37.88% year-on-year decline. This indicates a notable slowdown compared with the rapid expansion observed in earlier years.
 
-**3. Recent content growth has slowed**
+3. Movies remain the dominant content format
 
-The latest year represented in the dataset contains **592 titles**, with year-on-year growth of approximately **-37.88%**, indicating a significant decline in new additions compared with the previous year.
+The trend shows movies consistently contributing a larger volume of titles than TV shows, although TV-show additions also increased substantially during the expansion period.
 
-**4. Movies consistently outnumber TV Shows**
+4. Content growth was concentrated in a relatively short period
 
-Across the period analysed, Movies generally remain above TV Shows in annual content volume.
+The sharp rise in additions around 2015–2019 contrasts with the much lower volumes in earlier years, indicating that Netflix’s catalogue expansion was particularly aggressive during this period.
 
-**5. Content growth is geographically concentrated**
+### Strategic Insights
 
-The United States remains the largest contributor, followed by India, the United Kingdom and Pakistan among the leading countries shown in the dashboard.
+1. Investigate the recent slowdown
 
-### Strategic Considerations
+The decline in new additions warrants analysis of whether the change is associated with content strategy, market conditions, production capacity or changing acquisition patterns.
 
-The observed slowdown in recent content growth provides an opportunity to investigate changes in content strategy, production cycles and catalogue composition. Further analysis could examine whether the decline differs by genre, country or content type.
+2. Balance catalogue growth with content mix
+
+Although movies represent the larger share of the catalogue, the growth in TV shows suggests an opportunity to assess the relative contribution of each format to audience engagement and retention.
+
+3. Shift from volume-driven to performance-driven expansion
+
+The earlier period demonstrates strong catalogue expansion. Future content decisions could place greater emphasis on content performance, audience demand and return on investment, rather than catalogue volume alone.
+
 
 ---
 
