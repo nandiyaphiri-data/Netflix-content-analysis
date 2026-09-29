@@ -67,9 +67,15 @@ The United States, India and the United Kingdom collectively account for approxi
 
 Drama, documentary and stand-up-related categories appear among the leading genres in the dataset, highlighting strong representation of these content categories.
 
-### Business Implication
+**5.TV-MA and TV-14 ratings are prominent**
 
-The concentration of content across a relatively small number of countries provides an opportunity to examine geographic diversification and identify markets where additional locally relevant content could potentially expand the catalogue.
+TV-MA and TV-14 are the most common content ratings, showing a strong presence of mature-oriented content.
+
+**6. Content additions increased significantly from 2010, highlighting Netflix’s expansion of its content library.
+
+### Strategic Insight
+
+The analysis suggests opportunities to further diversify content across countries and genres, while using audience ratings and content trends to guide acquisition and regional content strategies.
 
 ---
 
